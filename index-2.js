@@ -1,3 +1,7 @@
+/* eslint-disable new-cap */
+/* eslint-disable no-unused-vars */
+/* eslint-disable no-console */
+/* eslint-disable max-len */
 // https://openclassrooms.com/en/courses/2504541-ultra-fast-applications-using-node-js/2504972-creating-your-first-app-with-node-js
 // Este script muestra cómo manejar diferentes rutas.
 
