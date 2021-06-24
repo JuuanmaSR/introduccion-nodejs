@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 // esto lo instalamos a través de npm
 const express = require('express');
 

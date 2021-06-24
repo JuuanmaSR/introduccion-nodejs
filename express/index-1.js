@@ -18,7 +18,7 @@ app.get('/equipo/:idEquipo/jugador/:idJugador', (req, res) => {
 });
 
 app.get('/hola-mundo', (req, res) => {
-  // res.writeHead(200, { 'Content-Type': 'text/html' });
+  res.writeHead(200, { 'Content-Type': 'text/html' });
   res.end(`
     <html>
       <head>
